@@ -45,7 +45,7 @@
 
         <meta-data
             android:name="com.google.android.gms.auth.api.signin.API_KEY"
-            android:value="AIzaSyATevSEPi5fACEGwP9Ep_PC4mJeX29-QhQ"/>
+            android:value=""/>
 
     </application>
     
